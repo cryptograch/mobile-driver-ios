@@ -1,0 +1,38 @@
+{
+  "name": "taxi",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.3",
+    "axios": "^0.18.0",
+    "geolib": "^2.0.24",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-camera": "^1.2.0",
+    "react-native-drawer": "^2.5.0",
+    "react-native-file-upload": "^1.0.4",
+    "react-native-filesystem": "^0.1.0",
+    "react-native-fs": "^2.10.14",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-maps": "^0.21.0",
+    "react-native-maps-directions": "^1.6.0",
+    "react-native-material-design": "^0.3.7",
+    "react-native-qr-scanner": "git+https://github.com/Pavlivskiy/react-native-qr-scanner.git",
+    "react-native-snap-carousel": "^3.7.2",
+    "react-navigation": "^2.8.0",
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.0",
+    "babel-preset-react-native": "^5",
+    "jest": "23.4.1",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
