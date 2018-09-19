@@ -1,5 +1,5 @@
 # mobile-driver-ios
-clone files from this repositories.
+Clone files from this repositories.
 In command line enter 'cd mobile-driver-ios'.
 Enter 'npm install'
 # Install on ios
