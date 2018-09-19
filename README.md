@@ -1,6 +1,6 @@
 # mobile-driver-ios
 clone files from this repositories.
-In command line enter 'cd mobile-driver-ios'
+In command line enter 'cd mobile-driver-ios'.
 Enter 'npm install'
 # Install on ios
 If you use 'OS Macintosh' - find file 'taxi.xcworkspace' in ios folder and launch it.
